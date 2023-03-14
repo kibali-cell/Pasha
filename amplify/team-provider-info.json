@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pasha-staging-105426-authRole",
+      "UnauthRoleArn": "arn:aws:iam::634619195179:role/amplify-pasha-staging-105426-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::634619195179:role/amplify-pasha-staging-105426-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pasha-staging-105426-deployment",
+      "UnauthRoleName": "amplify-pasha-staging-105426-unauthRole",
+      "StackName": "amplify-pasha-staging-105426",
+      "StackId": "arn:aws:cloudformation:us-east-1:634619195179:stack/amplify-pasha-staging-105426/50c10240-919e-11ed-8541-129cdf2be7a5",
+      "AmplifyAppId": "d3gyrvsl2gukzq"
+    },
+    "categories": {
+      "auth": {
+        "Pasha": {}
+      }
+    }
+  }
+}
